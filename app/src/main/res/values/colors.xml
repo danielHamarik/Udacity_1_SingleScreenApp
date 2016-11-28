@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@android:color/holo_green_light</color>
+    <color name="colorPrimaryDark">@android:color/holo_green_dark</color>
+    <color name="colorAccent">#ff9f40</color>
+
+    <color name="text_main">#FF202020</color>
+    <color name="text_desc">#FF656565</color>
+</resources>
